@@ -15,7 +15,7 @@ class _HomeScreenState extends State<HomeScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Wisata Candi'),
+        title: Text('Resep Makanan'),
       ),
       body: GridView.builder(
         padding: EdgeInsets.all(8),

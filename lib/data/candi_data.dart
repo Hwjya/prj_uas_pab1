@@ -2,15 +2,15 @@ import 'package:prj_wisatacandisi51/models/candi.dart';
 
 var candiList = [
   Candi(
-    name: 'Candi Borobudur',
-    location: 'Magelang, Jawa Tengah',
+    name: 'Rendang Paha Ayam Organik',
+    location: '- 4 paha ayam organik \n- 2 buah kentang, potong-potong \n- 2 butir telur rebus \n- 1 lembar daun kunyit, iris \n- 4 lembar daun jeruk \n- 2 lembar daun salam \n- 1 kelapa parut kering \n- 200 ml santan dan air \n- Garam \n- Gula malaka \n- Penyedap rasa',
     description:
-        'Candi Borobudur, adalah candi Buddha terbesar di dunia, dibangun oleh penganut Buddha Mahayana pada abad ke-9 di Jawa Tengah, Indonesia. Dengan enam teras dan tiga pelataran melingkar yang dihiasi relief dan arca Buddha, Borobudur adalah tempat suci untuk memuliakan Buddha dan panduan ziarah menuju pencerahan. Meskipun ditinggalkan pada abad ke-10, candi ini ditemukan kembali pada tahun 1814 dan setelah pemugaran besar-besaran, diakui sebagai Situs Warisan Dunia oleh UNESCO.',
-    built: 'Abad ke-9',
+        '- Goreng kentang hingga matang, sisihkan. \n- Panaskan minyak, tumis bahan halus sampai kering dan pecah minyak. - Masukkan ayam tumis sebentar, kemudian masukkan santan dengan air, aduk rata. \n- Masukkan kerisik, daun jeruk, daun salam, dan daun kunyit. \n- Kemudian masukkan kentang dan telur rebus, tambahkan garam, gula malaka, dan penyedap rasa. \n- Masak dengan api kecil sampai air kering, jika ingin berkuah jangan masak sampai kering.',
+    built: '- 8 butir bawang merah \n- 3 butir bawang putih \n- 1 cm kunyit \n- 1 cm jahe \n- 1 cm lengkuas \n- 2 batang serai \n- 3 buah cabai rawit \n- 3 buah cabai merah',
     type: 'Candi Buddha',
-    imageAsset: 'images/borobudur.jpeg',
+    imageAsset: 'images/rendangayam.jpeg',
     imageUrls: [
-      'https://media-cdn.tripadvisor.com/media/photo-o/11/cd/4f/71/borobudur-and-the-sky.jpg',
+      'https://i.ibb.co/CQPQWfG/594d6ea9-fca0-4fed-8b34-af0599b2d062.jpg',
       'https://media-cdn.tripadvisor.com/media/photo-o/11/cd/5d/36/borobudur-airial-view.jpg',
       'https://media-cdn.tripadvisor.com/media/photo-o/11/cd/4d/c7/borobudur-and-the-sky.jpg',
       'https://media-cdn.tripadvisor.com/media/photo-o/11/cd/47/0e/borobudur-sunset-moment.jpg',
